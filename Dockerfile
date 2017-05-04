@@ -10,6 +10,7 @@ RUN apt-get update && apt-get install -y \
     npm \
     git \
     ssh \
+    apt-utils \
     ruby \
     ruby-dev \
     gem \
